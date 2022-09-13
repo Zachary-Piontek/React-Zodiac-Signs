@@ -1,73 +1,74 @@
-export const signs = [
+export const zodiac = [
   {
-    sign: 'Aquarius',
+    id: '1',
+    name: 'aquarius',
     dates: 'Jan 21 - Feb 19',
-    emoji: '♒'
+    symbol: 'Water Bearer',
   },
-  
   {
-    sign: 'Aries',
+    id: '2',
+    name: 'aries',
     dates: 'Mar 21 - Apr 19',
-    emoji: '♈'
+    symbol: 'Ram',
   },
-  
   {
-    sign: 'Cancer',
+    id: '3',
+    name: 'cancer',
     dates: 'Jun 21 - Jul 22',
-    emoji: '♋'
+    symbol: 'Crab',
   },
-  
   {
-    sign: 'Capricorn',
+    id: '4',
+    name: 'capricorn',
     dates: 'Dec 22 - Feb 19',
-    emoji: '♑'
+    symbol: 'Goat',
   },
-  
   {
-    sign: 'Gemini',
+    id: '5',
+    name: 'gemini',
     dates: 'May 21 - Jun 20',
-    emoji: '♊'
+    symbol: 'Twins',
   },
-  
   {
-    sign: 'Leo',
+    id: '6',
+    name: 'leo',
     dates: 'Jul 23 - Aug 22',
-    emoji: '♌'
+    symbol: 'Lion',
   },
-  
   {
-    sign: 'Libra',
+    id: '7',
+    name: 'libra',
     dates: 'Sept 23 - Oct 22',
-    emoji: '♎'
+    symbol: 'Balance',
   },
-  
   {
-    sign: 'Pisces',
+    id: '8',
+    name: 'pisces',
     dates: 'Feb 19 - Mar 20',
-    emoji: '♓'
+    symbol: 'Fish',
   },
-  
   {
-    sign: 'Sagittarius',
+    id: '9',
+    name: 'sagittarius',
     dates: 'Nov 22 - Dec 21',
-    emoji: '♐'
+    symbol: 'Archer',
   },
-  
   {
-    sign: 'Scorpio',
+    id: '10',
+    name: 'scorpio',
     dates: 'Oct 23 - Nov 21',
-    emoji: '♏'
+    symbol: 'Scorpion',
   },
-  
   {
-    sign: 'Taurus',
+    id: '11',
+    name: 'taurus',
     dates: 'Apr 20 - May 20',
-    emoji: '♉'
+    symbol: 'Bull',
   },
-  
   {
-    sign: 'Virgo',
+    id: '12',
+    name: 'virgo',
     dates: 'Aug 23 - Sep 22',
-    emoji: '♍'
+    symbol: 'Virgin',
   },
 ];
